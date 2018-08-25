@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631833918227",
+    "firebase_url": "https://munidenuncias-f9db5.firebaseio.com",
+    "project_id": "munidenuncias-f9db5",
+    "storage_bucket": "munidenuncias-f9db5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631833918227:android:823e56ebbc665ab0",
+        "android_client_info": {
+          "package_name": "com.example.luist.munidenuncias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631833918227-jormgp2o9jm2vi2hv7envtdre2uiscun.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luist.munidenuncias",
+            "certificate_hash": "f1879f38658ea3cb7f62a7c1ffea7053789a9324"
+          }
+        },
+        {
+          "client_id": "631833918227-rpp567uqebdc22755e3ad1g9n28sj9d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnQc0F-kzyrUH2DPf8ESff1g17edAD234"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631833918227-rpp567uqebdc22755e3ad1g9n28sj9d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
